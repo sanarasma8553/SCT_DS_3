@@ -6,7 +6,7 @@ This project employs a Decision Tree Classifier to predict whether a customer wi
 
 📌 Key Features
 
-- **Data Preprocessing**: Handles missing values, encodes categorical variables, and scales features.
+- **Data Preprocessing**: Handles missing values and encodes categorical variables.
 - **Model Training**: Utilizes a Decision Tree Classifier to build the predictive model.
 - **Evaluation**: Assesses model performance using accuracy and classification metrics.
 - **Visualization**: Provides insights into feature importance and decision-making processes.
